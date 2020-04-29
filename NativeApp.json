@@ -9,7 +9,7 @@
     "DescriptionGenerateDonutAroundContext": "{DescriptionTitle} — генерация предметов по принципу: {DescribeContext}"
   },
   "FORTMOBILE_HUDLAYOUTPROFILE": {
-    "HUDProfileContainerSaveSlotTitle": "Пользовательские настройки {0}"
+    "HUDProfileContainerSaveSlotTitle": "{0} Копировать"
   },
   "Fortnite": {
     "iOSRestartToUninstall": "Контент «Королевской битвы» будет удалён при следующем запуске игры. Выйти?",
