@@ -612,7 +612,7 @@
     "SlashCommand_PrivateMessage": "личное сообщение"
   },
   "WindowsDynamicRHI": {
-    "RequiredDX11Feature": "Для работы движка игры требуется DX11 с уровнем функций 10.0.",
+    "RequiredDX11Feature": "Для работы движка игры требуется графический процессор с поддержкой D3D11 (уровень функций 11.0, шейдерная модель 5.0).",
     "RequiredDX12": "Ваша система не поддерживает DX12. Попробуйте запустить игру без параметров -dx12 или -d3d12 в командной строке.",
     "UseExpressionEncoderDX11": "Fraps вызывает сбой D3D11. Используйте для записи Microsoft Expression Encoder.",
     "UseExpressionEncoder": "Fraps вызывает сбой D3D12. Используйте для записи Microsoft Expression Encoder.",
