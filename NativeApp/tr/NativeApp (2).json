@@ -1,0 +1,54 @@
+{
+  "EnvQueryGenerator": {
+    "ScoreConstant": "sabit puan",
+    "DontScore": "puan verme",
+    "Greater": "büyüktür",
+    "Lesser": "küçüktür",
+    "ScorePrefer": "tercih",
+    "ScoreFactor": "puan etmeni",
+    "DescriptionGenerateDonutAroundContext": "{DescriptionTitle}: {DescribeContext} çevresinde eşyalar çıkar"
+  },
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "{0} Kopya"
+  },
+  "Fortnite": {
+    "iOSRestartToUninstall": "Battle Royale içeriği bir sonraki başlatmada kaldırılacak. Şimdi çıkılsın mı?",
+    "AndroidRestartToUninstall": "Battle Royale içeriği bir sonraki başlatmada kaldırılacak. Şimdi yeniden başlatılsın mı?",
+    "DoubleElimination": "İkili Avlama",
+    "Down": "Yere Devrildi",
+    "Eliminated": "Avlandı",
+    "Elimination": "Avlama",
+    "MultiElimination": "Çoklu Avlama",
+    "TripleElimination": "Üçlü Avlama",
+    "Win": "Zafer"
+  },
+  "GameFeatureCanChange": {
+    "SameFeature": "Zaten istemci özelliğinde",
+    "TooEarly": "Etkin özellik henüz değiştirilemez",
+    "GameplayToKairos": "Oynanıştan kayda geçilemiyor",
+    "GameplayToElectraPlayer": "Oynanıştan medya oynatıcıya geçilemiyor",
+    "InitialToFrontend": "Önyüze geçilemiyor, önce kayda geçilmesi gerek",
+    "EarlyStartup": "Erken başlatmaya dönülemiyor",
+    "KairosInitial": "İlk yüklemeye geri dönülemiyor",
+    "DedicatedServer": "İstemciler özelleştirilmiş sunucuyu değiştiremez",
+    "DedicatedServerOnly": "Özelleştirilmiş sunucular istemci özelliklerini değiştiremez",
+    "DownloadFailed": "Özelliğin indirilmesi başarısız oldu",
+    "Downloading": "Özellik hâlâ indiriliyor",
+    "Unavailable": "Özellik kullanılamıyor",
+    "Invalid": "Geçersiz Özellik",
+    "OtherToGameplay": "Oynanışa geçmek için önyüzde olunmalı",
+    "NoPC": "Oyun Kumandası Yok"
+  },
+  "Kairos": {
+    "NotificationTitle": "Sesli sohbet oturumu yakında bitiyor!",
+    "VoiceNotificationBody2": "Sesli sohbet oturumun {0} dakika içinde sona erecek. Oturumu etkin tutmak için dokun.",
+    "VoiceNotificationBody1": "Sesli sohbet oturumun {0} dakika içinde sona erecek. Oturumu etkin tutmak için dokun."
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "Tekrar oynatırken bir hata oluştu."
+  },
+  "SpriteCategory": {
+    "Lighting": "Işık",
+    "Triggers": "Tetikler"
+  }
+}

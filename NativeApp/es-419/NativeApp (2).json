@@ -1,0 +1,54 @@
+{
+  "EnvQueryGenerator": {
+    "ScoreConstant": "puntaje constante",
+    "DontScore": "sin puntaje",
+    "Greater": "mayor",
+    "Lesser": "menor",
+    "ScorePrefer": "preferencia",
+    "ScoreFactor": "factor de puntaje",
+    "DescriptionGenerateDonutAroundContext": "{DescriptionTitle}: objetos generados alrededor de {DescribeContext}"
+  },
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "Copiar {0}"
+  },
+  "Fortnite": {
+    "iOSRestartToUninstall": "El contenido de Batalla campal se eliminará en el siguiente inicio. ¿Salir ahora?",
+    "AndroidRestartToUninstall": "El contenido de Batalla campal se eliminará en el siguiente inicio. ¿Reiniciar ahora?",
+    "DoubleElimination": "Eliminación doble",
+    "Down": "Abajo",
+    "Eliminated": "Eliminado",
+    "Elimination": "Eliminación",
+    "MultiElimination": "Eliminación múltiple",
+    "TripleElimination": "Eliminación triple",
+    "Win": "Gana"
+  },
+  "GameFeatureCanChange": {
+    "SameFeature": "Ya estás en la función cliente",
+    "TooEarly": "Todavía no se puede cambiar la función activa",
+    "GameplayToKairos": "No se puede pasar del juego a captura",
+    "GameplayToElectraPlayer": "No se puede pasar del juego al reproductor de red social",
+    "InitialToFrontend": "No se puede pasar del inicio a la interfaz, primero debes pasar por captura",
+    "EarlyStartup": "No se puede volver al inicio anterior",
+    "KairosInitial": "No se puede volver a la carga inicial",
+    "DedicatedServer": "Los clientes no pueden cambiar a un servidor dedicado",
+    "DedicatedServerOnly": "Los servidores dedicados no pueden cambiar la función cliente",
+    "DownloadFailed": "No se pudo descargar la función",
+    "Downloading": "La función aún está descargando",
+    "Unavailable": "La función no está disponible",
+    "Invalid": "Función no válida",
+    "OtherToGameplay": "Debes estar en la interfaz para entrar al juego",
+    "NoPC": "No se encuentra el control del jugador"
+  },
+  "Kairos": {
+    "NotificationTitle": "¡La sesión de voz terminará pronto!",
+    "VoiceNotificationBody2": "Tu sesión de voz terminará en {0} minuto. Toca para mantener la sesión activa.",
+    "VoiceNotificationBody1": "Tu sesión de voz terminará en {0} minutos. Toca para mantener la sesión activa."
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "Ocurrió un error al tratar de reproducir de nuevo el video."
+  },
+  "SpriteCategory": {
+    "Lighting": "Relámpago",
+    "Triggers": "Activadores"
+  }
+}

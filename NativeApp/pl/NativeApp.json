@@ -1,0 +1,54 @@
+{
+  "EnvQueryGenerator": {
+    "ScoreConstant": "stały wynik",
+    "DontScore": "nie punktuj",
+    "Greater": "większy",
+    "Lesser": "mniejszy",
+    "ScorePrefer": "dowolny",
+    "ScoreFactor": "mnożnik punktów",
+    "DescriptionGenerateDonutAroundContext": "{DescriptionTitle}: twórz przedmioty wokół: {DescribeContext}"
+  },
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "{0} – kopiuj"
+  },
+  "Fortnite": {
+    "iOSRestartToUninstall": "Zawartość Battle Royale zostanie usunięta przy kolejnym uruchomieniu. Wyjść?",
+    "AndroidRestartToUninstall": "Zawartość Battle Royale zostanie usunięta przy kolejnym uruchomieniu. Zrestartować?",
+    "DoubleElimination": "Podwójna likwidacja",
+    "Down": "Powalenie",
+    "Eliminated": "Zlikwidowany",
+    "Elimination": "Likwidacja",
+    "MultiElimination": "Multilikwidacja",
+    "TripleElimination": "Potrójna likwidacja",
+    "Win": "Zwycięstwo"
+  },
+  "GameFeatureCanChange": {
+    "SameFeature": "Funkcja już obecna w kliencie",
+    "TooEarly": "Zmiana aktywnej funkcji jeszcze niemożliwa",
+    "GameplayToKairos": "Przejście pomiędzy rozgrywką a przechwytywaniem niemożliwe",
+    "GameplayToElectraPlayer": "Przejście pomiędzy rozgrywką a odtwarzaczem niemożliwe",
+    "InitialToFrontend": "Przejście pomiędzy stanem wstępnym a interfejsem niemożliwe, należy najpierw przejść do przechwytywania",
+    "EarlyStartup": "Powrót do wczesnego stanu startowego niemożliwy",
+    "KairosInitial": "Powrót do wstępnego stanu wczytywania niemożliwy",
+    "DedicatedServer": "Klient nie może zostać zmieniony w serwer dedykowany",
+    "DedicatedServerOnly": "Serwer dedykowany nie może zmienić funkcji klienta",
+    "DownloadFailed": "Nie udało się pobrać funkcji",
+    "Downloading": "Funkcja jest wciąż pobierana",
+    "Unavailable": "Funkcja jest niedostępna",
+    "Invalid": "Nieprawidłowa funkcja",
+    "OtherToGameplay": "Dostęp do rozgrywki wymaga przebywania w interfejsie",
+    "NoPC": "Brak kontrolera gracza"
+  },
+  "Kairos": {
+    "NotificationTitle": "Sesja głosowa niedługo się zakończy!",
+    "VoiceNotificationBody2": "Twoja sesja głosowa zakończy się za {0} min. Dotknij ekranu, jeśli chcesz kontynuować sesję.",
+    "VoiceNotificationBody1": "Twoja sesja głosowa zakończy się za {0} min. Dotknij ekranu, jeśli chcesz kontynuować sesję."
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "Podczas odtwarzania powtórki wystąpił błąd."
+  },
+  "SpriteCategory": {
+    "Lighting": "Oświetlenie",
+    "Triggers": "Aktywatory"
+  }
+}

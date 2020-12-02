@@ -1,0 +1,54 @@
+{
+  "EnvQueryGenerator": {
+    "ScoreConstant": "مجموع النقاط الثابت",
+    "DontScore": "بلا مجموع نقاط",
+    "Greater": "أعلى",
+    "Lesser": "أقل",
+    "ScorePrefer": "مفضل",
+    "ScoreFactor": "عامل مجموع النقاط",
+    "DescriptionGenerateDonutAroundContext": "{DescriptionTitle}:لإنشاء العناصر حول {DescribeContext}"
+  },
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "{0} من النسخ"
+  },
+  "Fortnite": {
+    "iOSRestartToUninstall": "سيتم إزالة محتوى باتل رويال عند التشغيل التالي. هل ترغب في الخروج الآن؟",
+    "AndroidRestartToUninstall": "سيتم إزالة محتوى باتل رويال عند التشغيل التالي. هل ترغب في إعادة التشغيل الآن؟",
+    "DoubleElimination": "تصفية مزدوجة",
+    "Down": "أسفل",
+    "Eliminated": "تمت التصفية",
+    "Elimination": "التصفية",
+    "MultiElimination": "تصفية متعددة",
+    "TripleElimination": "تصفية ثلاثية",
+    "Win": "فوز"
+  },
+  "GameFeatureCanChange": {
+    "SameFeature": "في ميزة العميل بالفعل",
+    "TooEarly": "لا يمكن تغيير الميزة النشطة حتى الآن",
+    "GameplayToKairos": "لا يمكن الانتقال من بيئة اللعب إلى الالتقاط",
+    "GameplayToElectraPlayer": "لا يمكن الانتقال من بيئة اللعب إلى مشغل الوسائط",
+    "InitialToFrontend": "لا يمكن الانتقال من الأولي إلى الواجهة الأمامية، يجب الانتقال إلى الالتقاط أولاً",
+    "EarlyStartup": "لا يمكن إرجاع بدء تشغيل مبكر",
+    "KairosInitial": "لا يمكن الإرجاع إلى تحميل أولي",
+    "DedicatedServer": "لا يمكن تغيير العملاء إلى خادم مخصص",
+    "DedicatedServerOnly": "الخوادم المخصصة لا يمكنها تغيير ميزة العميل",
+    "DownloadFailed": "تعذر تنزيل الميزة",
+    "Downloading": "الميزة لا تزال قيد التنزيل",
+    "Unavailable": "الميزة غير متاحة",
+    "Invalid": "ميزة غير صالحة",
+    "OtherToGameplay": "يجب أن يكون واجهة أمامية للدخول في بيئة اللعب",
+    "NoPC": "لا توجد وحدة تحكم للاعب"
+  },
+  "Kairos": {
+    "NotificationTitle": "الجلسة الصوتية تنتهي قريبًا!",
+    "VoiceNotificationBody2": "ستنتهي الجلسة الصوتية خلال {0} دقيقة. اضغط للحفاظ على نشاط الجلسة.",
+    "VoiceNotificationBody1": "ستنتهي الجلسة الصوتية خلال {0} من الدقائق. اضغط للحفاظ على نشاط الجلسة."
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "كان هناك خطأ خلال تشغيل الإعادة."
+  },
+  "SpriteCategory": {
+    "Lighting": "الإضاءة",
+    "Triggers": "المحفزات"
+  }
+}

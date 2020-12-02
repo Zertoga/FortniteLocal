@@ -1,0 +1,54 @@
+{
+  "EnvQueryGenerator": {
+    "ScoreConstant": "일정한 점수",
+    "DontScore": "점수 없음",
+    "Greater": "더 큼",
+    "Lesser": "더 작음",
+    "ScorePrefer": "선호",
+    "ScoreFactor": "점수 계수",
+    "DescriptionGenerateDonutAroundContext": "{DescriptionTitle}: {DescribeContext} 주변에서 아이템 생성"
+  },
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "{0} 복사"
+  },
+  "Fortnite": {
+    "iOSRestartToUninstall": "다음 부팅할 때 배틀로얄 콘텐츠가 제거됩니다. 지금 종료하시겠습니까?",
+    "AndroidRestartToUninstall": "다음 부팅할 때 배틀로얄 콘텐츠가 제거됩니다. 지금 다시 시작하시겠습니까?",
+    "DoubleElimination": "더블킬",
+    "Down": "다운",
+    "Eliminated": "처치됨",
+    "Elimination": "킬",
+    "MultiElimination": "멀티킬",
+    "TripleElimination": "트리플 킬",
+    "Win": "승리"
+  },
+  "GameFeatureCanChange": {
+    "SameFeature": "이미 클라이언트 피처에 있습니다",
+    "TooEarly": "아직 사용 중인 피처를 변경할 수 없습니다",
+    "GameplayToKairos": "게임플레이에서 캡처로 이동할 수 없습니다",
+    "GameplayToElectraPlayer": "게임플레이에서 미디어 플레이어로 이동할 수 없습니다",
+    "InitialToFrontend": "초기에서 프런트엔드로 이동할 수 없습니다. 먼저 캡처로 이동해야 합니다",
+    "EarlyStartup": "초기 시작으로 돌아갈 수 없습니다",
+    "KairosInitial": "초기 로드로 돌아갈 수 없습니다",
+    "DedicatedServer": "클라이언트에서 전용 서버로 변경할 수 없습니다",
+    "DedicatedServerOnly": "전용 서버에서 클라이언트 피처를 변경할 수 없습니다",
+    "DownloadFailed": "피처를 다운로드하는 데 실패했습니다",
+    "Downloading": "아직 피처를 다운로드 중입니다",
+    "Unavailable": "피처를 이용할 수 없습니다",
+    "Invalid": "무효한 피처",
+    "OtherToGameplay": "게임플레이에 들어가려면 프런트엔드여야 합니다",
+    "NoPC": "플레이어 컨트롤러 없음"
+  },
+  "Kairos": {
+    "NotificationTitle": "음성 세션이 곧 종료됩니다!",
+    "VoiceNotificationBody2": "음성 세션이 {0}분 뒤에 종료됩니다. 세션을 계속 활성화하려면 화면을 탭하세요.",
+    "VoiceNotificationBody1": "음성 세션이 {0}분 뒤에 종료됩니다. 세션을 계속 활성화하려면 화면을 탭하세요."
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "리플레이를 재생하는 동안 오류가 발생했습니다."
+  },
+  "SpriteCategory": {
+    "Lighting": "조명",
+    "Triggers": "발동 장치"
+  }
+}

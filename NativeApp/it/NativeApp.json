@@ -1,0 +1,54 @@
+{
+  "EnvQueryGenerator": {
+    "ScoreConstant": "punteggio costante",
+    "DontScore": "nessun punteggio",
+    "Greater": "maggiore",
+    "Lesser": "inferiore",
+    "ScorePrefer": "privilegia",
+    "ScoreFactor": "fattore punteggio",
+    "DescriptionGenerateDonutAroundContext": "{DescriptionTitle}: genera oggetti intorno a {DescribeContext}"
+  },
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "Copia di {0}"
+  },
+  "Fortnite": {
+    "iOSRestartToUninstall": "Il contenuto di Battaglia reale verrà rimosso al prossimo avvio. Uscire ora?",
+    "AndroidRestartToUninstall": "Il contenuto di Battaglia reale verrà rimosso al prossimo avvio. Riavviare ora?",
+    "DoubleElimination": "Doppia eliminazione",
+    "Down": "Giù",
+    "Eliminated": "Eliminato",
+    "Elimination": "Eliminazione",
+    "MultiElimination": "Eliminazione multipla",
+    "TripleElimination": "Tripla eliminazione",
+    "Win": "Vittoria"
+  },
+  "GameFeatureCanChange": {
+    "SameFeature": "Già nella funzione client",
+    "TooEarly": "Non è ancora possibile cambiare funzione attiva",
+    "GameplayToKairos": "Impossibile passare dal gioco all'acquisizione",
+    "GameplayToElectraPlayer": "Impossibile passare dal gioco al media player",
+    "InitialToFrontend": "Impossibile passare da iniziale a interfaccia, è necessario passare prima all'acquisizione",
+    "EarlyStartup": "Impossibile tornare all'avvio iniziale",
+    "KairosInitial": "Impossibile tornare al caricamento iniziale",
+    "DedicatedServer": "I client non possono passare al server dedicato",
+    "DedicatedServerOnly": "I server dedicati non possono modificare la funzione client",
+    "DownloadFailed": "Impossibile scaricare la funzione",
+    "Downloading": "La funzione è ancora in fase di download",
+    "Unavailable": "La funzione non è disponibile",
+    "Invalid": "Funzione non valida",
+    "OtherToGameplay": "È necessario essere nell'interfaccia per entrare nel gioco",
+    "NoPC": "Controller giocatore assente"
+  },
+  "Kairos": {
+    "NotificationTitle": "La sessione vocale sta per finire!",
+    "VoiceNotificationBody2": "La tua sessione vocale finirà tra {0} minuto. Tocca per mantenere attiva la sessione.",
+    "VoiceNotificationBody1": "La tua sessione vocale finirà tra {0} minuti. Tocca per mantenere attiva la sessione."
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "Si è verificato un errore durante la riproduzione del replay."
+  },
+  "SpriteCategory": {
+    "Lighting": "Illuminazione",
+    "Triggers": "Attivatori"
+  }
+}

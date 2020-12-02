@@ -1,0 +1,54 @@
+{
+  "EnvQueryGenerator": {
+    "ScoreConstant": "Dauerhaftes Punkten",
+    "DontScore": "Nicht punkten",
+    "Greater": "Höher",
+    "Lesser": "Weniger",
+    "ScorePrefer": "Bevorzugt",
+    "ScoreFactor": "Punktefaktor",
+    "DescriptionGenerateDonutAroundContext": "{DescriptionTitle}: Gegenstände um {DescribeContext} generieren"
+  },
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "Kopie von {0}"
+  },
+  "Fortnite": {
+    "iOSRestartToUninstall": "Battle Royale-Inhalt wird beim nächsten Start entfernt. Jetzt verlassen?",
+    "AndroidRestartToUninstall": "Battle Royale-Inhalt wird beim nächsten Start entfernt. Jetzt neu starten?",
+    "DoubleElimination": "Doppeleliminierung",
+    "Down": "Unten",
+    "Eliminated": "Eliminiert",
+    "Elimination": "Eliminierung",
+    "MultiElimination": "Mehrfacheliminierung",
+    "TripleElimination": "Dreifacheliminerung",
+    "Win": "Sieg"
+  },
+  "GameFeatureCanChange": {
+    "SameFeature": "Bereits in Client-Feature",
+    "TooEarly": "Änderung von aktivem Feature noch nicht möglich",
+    "GameplayToKairos": "Wechsel von Gameplay zu Aufnehmen nicht möglich",
+    "GameplayToElectraPlayer": "Wechsel vom Gameplay zum Medien-Player nicht möglich",
+    "InitialToFrontend": "Wechsel vom anfänglichen Zustand zu Frontend nicht möglich – zuerst muss Aufnehmen aufgerufen werden",
+    "EarlyStartup": "Rückkehr zu anfänglichem Start nicht möglich",
+    "KairosInitial": "Rückkehr zu anfänglichem Ladezustand nicht möglich",
+    "DedicatedServer": "Wechsel von Clients zu dediziertem Server nicht möglich",
+    "DedicatedServerOnly": "Änderung von Client-Feature bei dedizierten Servern nicht möglich",
+    "DownloadFailed": "Download von Feature fehlgeschlagen",
+    "Downloading": "Feature wird noch heruntergeladen",
+    "Unavailable": "Feature ist nicht verfügbar",
+    "Invalid": "Ungültiges Feature",
+    "OtherToGameplay": "Muss in Frontend sein, um Gameplay zu starten",
+    "NoPC": "Kein Spieler-Controller"
+  },
+  "Kairos": {
+    "NotificationTitle": "Sprach-Chat-Sitzung endet bald!",
+    "VoiceNotificationBody2": "Deine Sprach-Chat-Sitzung endet in {0} Minute. Tippe, damit sie aktiv bleibt.",
+    "VoiceNotificationBody1": "Deine Sprach-Chat-Sitzung endet in {0} Minuten. Tippe, damit sie aktiv bleibt."
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "Bei der Abfrage deiner Transaktionen ist leider ein Fehler aufgetreten."
+  },
+  "SpriteCategory": {
+    "Lighting": "Lichtverhältnisse",
+    "Triggers": "Auslöser"
+  }
+}

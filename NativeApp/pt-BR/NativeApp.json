@@ -1,0 +1,54 @@
+{
+  "EnvQueryGenerator": {
+    "ScoreConstant": "pontuação constante",
+    "DontScore": "não pontuar",
+    "Greater": "maior que",
+    "Lesser": "menor que",
+    "ScorePrefer": "preferir",
+    "ScoreFactor": "fator de pontuação",
+    "DescriptionGenerateDonutAroundContext": "{DescriptionTitle}: gera itens perto de {DescribeContext}"
+  },
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "Copiar {0}"
+  },
+  "Fortnite": {
+    "iOSRestartToUninstall": "Conteúdo do Battle Royale será removido na próxima reinicialização. Sair agora?",
+    "AndroidRestartToUninstall": "Conteúdo do Battle Royale será removido na próxima reinicialização. Reiniciar agora?",
+    "DoubleElimination": "Eliminação Dupla",
+    "Down": "Baixa",
+    "Eliminated": "Eliminado",
+    "Elimination": "Eliminação",
+    "MultiElimination": "Eliminação Múltipla",
+    "TripleElimination": "Eliminação Tripla",
+    "Win": "Vitória"
+  },
+  "GameFeatureCanChange": {
+    "SameFeature": "Você já está no Recurso do cliente",
+    "TooEarly": "Ainda não é possível mudar recurso ativo",
+    "GameplayToKairos": "Não foi possível ir do jogo para captura",
+    "GameplayToElectraPlayer": "Não foi possível ir do jogo para reprodutor de mídia",
+    "InitialToFrontend": "Não foi possível ir do inicial para Frontend. Necessário ir para captura primeiro",
+    "EarlyStartup": "Não foi possível voltar à inicialização inicial",
+    "KairosInitial": "Não foi possível retornar ao carregamento inicial",
+    "DedicatedServer": "Clientes não podem ser movidos para o servidor dedicado",
+    "DedicatedServerOnly": "Servidores dedicados não podem alterar o Recurso cliente",
+    "DownloadFailed": "Falha ao baixar recurso",
+    "Downloading": "Recurso ainda está sendo baixado",
+    "Unavailable": "O Recurso está indisponível",
+    "Invalid": "Recurso Inválido",
+    "OtherToGameplay": "É preciso estar no Frontend para entrar no jogo",
+    "NoPC": "Sem controle para o jogador"
+  },
+  "Kairos": {
+    "NotificationTitle": "A sessão de voz será encerrada em breve!",
+    "VoiceNotificationBody2": "Sua sessão de voz será encerrada em {0} minuto. Toque para manter a sessão ativa.",
+    "VoiceNotificationBody1": "Sua sessão de voz será encerrada em {0} minutos. Toque para manter a sessão ativa."
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "Houve um erro durante a reprodução do replay."
+  },
+  "SpriteCategory": {
+    "Lighting": "Iluminação",
+    "Triggers": "Gatilhos"
+  }
+}

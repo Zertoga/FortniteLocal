@@ -1,0 +1,54 @@
+{
+  "EnvQueryGenerator": {
+    "ScoreConstant": "score constant",
+    "DontScore": "pas de score",
+    "Greater": "supérieur",
+    "Lesser": "inférieur",
+    "ScorePrefer": "préfère",
+    "ScoreFactor": "facteur de score",
+    "DescriptionGenerateDonutAroundContext": "{DescriptionTitle} : génère des objets autour de {DescribeContext}"
+  },
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "Copie de {0}"
+  },
+  "Fortnite": {
+    "iOSRestartToUninstall": "Le contenu de Battle Royale sera supprimé à la prochaine session. Quitter ?",
+    "AndroidRestartToUninstall": "Le contenu de Battle Royale sera supprimé à la prochaine session. Redémarrer ?",
+    "DoubleElimination": "Double élimination",
+    "Down": "K.-O.",
+    "Eliminated": "Éliminé",
+    "Elimination": "Élimination",
+    "MultiElimination": "Élimination multiple",
+    "TripleElimination": "Triple élimination",
+    "Win": "Victoire"
+  },
+  "GameFeatureCanChange": {
+    "SameFeature": "Fonction déjà dans le client",
+    "TooEarly": "Impossible de changer la fonction active pour le moment",
+    "GameplayToKairos": "Impossible d'aller du gameplay à la capture",
+    "GameplayToElectraPlayer": "Impossible de passer du jeu au lecteur multimédia",
+    "InitialToFrontend": "Impossible d'aller de l'initialisation au menu principal, doit d'abord passer par la capture",
+    "EarlyStartup": "Impossible de revenir à la première initialisation",
+    "KairosInitial": "Impossible de revenir au chargement initial",
+    "DedicatedServer": "Les clients ne peuvent pas passer au serveur dédié",
+    "DedicatedServerOnly": "Les serveurs dédiés ne peuvent pas changer la fonction du client",
+    "DownloadFailed": "Échec du téléchargement de la fonction",
+    "Downloading": "La fonction est toujours en cours de téléchargement",
+    "Unavailable": "Fonction indisponible",
+    "Invalid": "Fonction invalide",
+    "OtherToGameplay": "Doit être sur le menu principal pour accéder au gameplay",
+    "NoPC": "Aucune manette joueur"
+  },
+  "Kairos": {
+    "NotificationTitle": "Session vocale bientôt close !",
+    "VoiceNotificationBody2": "Votre session vocale sera close dans {0} minute. Touchez pour la garder active.",
+    "VoiceNotificationBody1": "Votre session vocale sera close dans {0} minutes. Touchez pour la garder active."
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "Une erreur s'est produite pendant la lecture."
+  },
+  "SpriteCategory": {
+    "Lighting": "Foudre",
+    "Triggers": "Déclencheurs"
+  }
+}

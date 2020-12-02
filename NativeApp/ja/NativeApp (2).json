@@ -1,0 +1,54 @@
+{
+  "EnvQueryGenerator": {
+    "ScoreConstant": "持続的なスコア",
+    "DontScore": "スコアなし",
+    "Greater": "より大きい",
+    "Lesser": "より小さい",
+    "ScorePrefer": "好ましい",
+    "ScoreFactor": "スコアファクター",
+    "DescriptionGenerateDonutAroundContext": "{DescriptionTitle}: {DescribeContext}周辺にアイテムを発生させる"
+  },
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "{0}コピー"
+  },
+  "Fortnite": {
+    "iOSRestartToUninstall": "次回起動時に「バトルロイヤル」のコンテンツが削除されます。今すぐ終了しますか？",
+    "AndroidRestartToUninstall": "次回起動時に「バトルロイヤル」のコンテンツが削除されます。今すぐ再起動しますか？",
+    "DoubleElimination": "ダブル撃破",
+    "Down": "ダウン",
+    "Eliminated": "撃破",
+    "Elimination": "撃破",
+    "MultiElimination": "マルチ撃破",
+    "TripleElimination": "トリプル撃破",
+    "Win": "勝利"
+  },
+  "GameFeatureCanChange": {
+    "SameFeature": "すでにクライアントの機能に入っています",
+    "TooEarly": "まだアクティブな機能を変更できません",
+    "GameplayToKairos": "ゲームプレイからキャプチャーに移行できません",
+    "GameplayToElectraPlayer": "ゲームプレイからメディアプレイヤーに移行できません",
+    "InitialToFrontend": "イニシャルからフロントエンドに移行できません。必ずキャプチャーから移行する必要があります",
+    "EarlyStartup": "早期スタートアップに戻れません",
+    "KairosInitial": "イニシャルロードに戻れません",
+    "DedicatedServer": "クライアントが専用サーバーに変更できません",
+    "DedicatedServerOnly": "専用サーバーがクライアントの機能を変更できません",
+    "DownloadFailed": "機能のダウンロードに失敗しました",
+    "Downloading": "機能はまだダウンロード中です",
+    "Unavailable": "機能は使用できません",
+    "Invalid": "無効な機能",
+    "OtherToGameplay": "フロントエンドからでないとゲームプレイに入れません",
+    "NoPC": "プレイヤーコントローラーなし"
+  },
+  "Kairos": {
+    "NotificationTitle": "ボイスセッション、間もなく終了！",
+    "VoiceNotificationBody2": "ボイスセッションは{0}分後に終了します。セッションをアクティブに保つにはタップしてください。",
+    "VoiceNotificationBody1": "ボイスセッションは{0}分後に終了します。セッションをアクティブに保つにはタップしてください。"
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "リプレイの再生中にエラーが発生しました。"
+  },
+  "SpriteCategory": {
+    "Lighting": "明るさ",
+    "Triggers": "トリガー"
+  }
+}

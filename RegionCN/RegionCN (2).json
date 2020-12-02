@@ -1,0 +1,9 @@
+{
+  "NativeCulture": "en",
+  "NativeLocRes": "en/RegionCN.locres",
+  "CompiledCultures": [
+    "en",
+    "zh-CN",
+    "zh-Hant"
+  ]
+}

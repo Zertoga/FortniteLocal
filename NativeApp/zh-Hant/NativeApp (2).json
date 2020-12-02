@@ -1,0 +1,54 @@
+{
+  "EnvQueryGenerator": {
+    "ScoreConstant": "不變分數",
+    "DontScore": "不計分",
+    "Greater": "更大",
+    "Lesser": "更小",
+    "ScorePrefer": "偏好",
+    "ScoreFactor": "得分因數",
+    "DescriptionGenerateDonutAroundContext": "{DescriptionTitle}：在{DescribeContext}周圍生成物品"
+  },
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "{0}副本"
+  },
+  "Fortnite": {
+    "iOSRestartToUninstall": "空降行動內容將會在下一次打開時移除。現在退出？",
+    "AndroidRestartToUninstall": "空降行動內容將會在下一次打開時移除。現在重啟？",
+    "DoubleElimination": "淘汰兩人",
+    "Down": "下",
+    "Eliminated": "淘汰",
+    "Elimination": "消滅",
+    "MultiElimination": "淘汰多人",
+    "TripleElimination": "淘汰三人",
+    "Win": "贏了"
+  },
+  "GameFeatureCanChange": {
+    "SameFeature": "已處於用戶端功能",
+    "TooEarly": "目前無法更改活動功能",
+    "GameplayToKairos": "無法從遊戲轉至截圖",
+    "GameplayToElectraPlayer": "無法從遊戲轉至媒體播放機",
+    "InitialToFrontend": "無法從初始轉至前端，必須先轉至截圖",
+    "EarlyStartup": "無法返回早期啟動",
+    "KairosInitial": "無法返回初始載荷",
+    "DedicatedServer": "用戶端無法切換到專用伺服器",
+    "DedicatedServerOnly": "專用伺服器無法變更用戶端功能",
+    "DownloadFailed": "功能下載失敗",
+    "Downloading": "功能仍在下載中",
+    "Unavailable": "功能不可用",
+    "Invalid": "無效功能",
+    "OtherToGameplay": "必須從前端進入遊戲",
+    "NoPC": "無玩家控制器"
+  },
+  "Kairos": {
+    "NotificationTitle": "語音會話即將結束！",
+    "VoiceNotificationBody2": "你的語音會話將在{0}分鐘後結束。通過點按保持會話處於活動狀態。",
+    "VoiceNotificationBody1": "你的語音會話將在{0}分鐘後結束。通過點按保持會話處於活動狀態。"
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "在播放賽事重播時發生了錯誤。"
+  },
+  "SpriteCategory": {
+    "Lighting": "照明",
+    "Triggers": "觸發器"
+  }
+}
